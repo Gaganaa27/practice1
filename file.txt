@@ -1,2 +1,7 @@
 hellooo github
+<<<<<<< HEAD
 good morning 
+=======
+hiii
+>>>>>>> feature1
+good afternoon
